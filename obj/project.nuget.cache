@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TLWUDLN2KPAjjbAQj+Iu3dLHze+X8poicVh8XgujJXZbqWPCcK4M4xsYUprc4cT9V2NbdJQg10ufJA2IcZM2kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jay.dave\\Desktop\\Code\\Dotnet.WindowsContainer.Example\\Dotnet.WindowsContainer.Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay.dave\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
