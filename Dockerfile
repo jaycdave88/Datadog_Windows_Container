@@ -5,7 +5,7 @@
 
 FROM datadog/agent-amd64:7.27.0-win1909 AS base
 
-ENV DD_API_KEY="a8a8a518ea9959f289fe2154953ceda3"
+ENV DD_API_KEY="API_KEY"
 ENV DD_APM_ENABLED="true"
 ENV DD_ENV="apm-docker-samples"
 ENV DD_NON_LOCAL_TRAFFIC="true"
